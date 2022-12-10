@@ -1,0 +1,28 @@
+homeassistant:
+  name: Home
+  unit_system: metric
+
+frontend:
+config:
+system_health:
+configurator:
+http:
+api:
+automation:
+
+logger:
+  default: debug
+
+#ihc:
+#  - url: !secret ihc_url
+#    username: !secret ihc_username
+#    password: !secret ihc_password
+#    auto_setup: true
+# ihcviewer:
+
+#debugpy:
+#  wait: true
+
+input_boolean:
+  testknap:
+    name: Test knap
