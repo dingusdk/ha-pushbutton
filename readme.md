@@ -9,7 +9,7 @@ You can install it using hacs or just copy the js file manually in the dist fold
 
 This is the url if you are using hacs:
 ~~~
-/hacsfiles/ha-pushbutton/pushbutton.js
+/hacsfiles/ha-pushbutton/ha-pushbutton.js
 ~~~
 Set resource type to "Javascript module".
 
